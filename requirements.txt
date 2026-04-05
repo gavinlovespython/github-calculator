@@ -1,0 +1,2 @@
+# This project currently has no external dependencies.
+# This file exists for future expansion.
